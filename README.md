@@ -1,3 +1,3 @@
 # Wifite-full-installer
 For start installer, enter the commands:
-    git clone https://github.com/vasarv/rtl8192eu-linux-driver-installer.git && cd rtl8192eu-linux-driver-installer && sudo chmod +x rtl8192eu-linux-driver-installer.sh && sudo ./rtl8192eu-linux-driver-installer.sh
+    git clone https://github.com/vasarv/Wifite-full-installer.git && cd Wifite-full-installer/ && sudo chmod +x Wifite-full-installer.sh && sudo ./Wifite-full-installer.sh
