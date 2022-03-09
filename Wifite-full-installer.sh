@@ -1,6 +1,7 @@
 sudo chmod +x Hcxpcaptool-installer.sh &&
 sudo chmod +x install-Atheros-AR9271-wifi-driver.sh &&
 sudo chmod +x Pyrit-installer.sh &&
+sudo chmod +x PassGen-installer.sh &&
 sudo chmod +x wifite-installer.sh &&
 echo "Execution rights granted to files:
 sudo Hcxpcaptool-installer.sh &&
